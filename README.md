@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - Competitive Programming enthusiast, Codeforces: Thallium54
 - Linux user, love tweaking and customizing
 - Currently learning Go and Lua
+- Programming languages: C/C++, Go
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallium&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
