@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium)](https://github.com/anuraghazra/github-readme-stats)
+- Second-year CS student at York University
+- Competitive Programming enthusiast, Codeforces: Thallium54
+- Linux user, love tweaking and customizing
+- Currently learning Go and Lua
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallium&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
