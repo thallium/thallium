@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 - Second-year CS student at York University
 - Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
-- Linux user, love tweaking and customizing
-- Currently learning Lua
+- Linux user, vim user, love tweaking and customizing
 - Programming languages: C/C++, Go, Java, JavaScript, Bash
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
