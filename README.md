@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Second-year CS student at York University
+- Third-year CS student at York University
+- Linux, (neo)vim, home server
 - Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
-- Linux user, vim user, love tweaking and customizing
 - Programming languages: C/C++, Go, Python, Java, JavaScript, Lua, Bash
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
