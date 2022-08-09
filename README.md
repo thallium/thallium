@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Third-year CS student at York University
 - Linux, (neo)vim, home server
 - Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
-- Programming languages: C/C++, Go, Python, Java, JavaScript, Lua, Bash
+- Programming languages: C/C++, Python, Rust, Java, Go, JavaScript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
