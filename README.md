@@ -1,24 +1,10 @@
-### Hi there 👋
+### Hi everyone, Thallium here!
 
-<!--
-**thallium/thallium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord">]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Third-year CS student at York University
-- Linux, (neo)vim, home server
-- Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
+- Fourth-year CS student at York University
+- Back end developer intern at IBM
+- Competitive Programming enthusiast: [![Codeforces](https://badges.joonhyung.xyz/codeforces/thallium54.svg)](https://codeforces.com/profile/thallium54) [![Codeforces](https://badges.joonhyung.xyz/codeforces/45muillaht.svg)](https://codeforces.com/profile/45muillaht) [![AtCoder](https://badges.joonhyung.xyz/atcoder/Thallium54.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/Thallium54)
+- Tools: macOS, Linux, neovim, home server
 - Programming languages: C/C++, Python, Rust, Java, Go, JavaScript
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallium&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
